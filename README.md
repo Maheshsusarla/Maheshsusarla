@@ -1,9 +1,35 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Mahesh Susarla</h1>
-<h3 align="center">A passionate frontend developer</h3>
+ Hi there, I'm Mahesh Susarla!
 
-<p align="left">
-</p>
+🎓 **B.Tech 3rd Year | CSE @ RSR **  
+🚀 **Aspiring Full Stack Developer**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Welcome to my GitHub! I’m an enthusiastic AI and Machine Learning student with a strong passion for solving real-world problems through code and creativity. Whether it's designing sleek web interfaces or developing smart ML models, I love bringing ideas to life through technology.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Currently pursuing **B.Tech in Computer Science and Engineering** at **RSREC**
+- 
+- 💡 Always exploring new tech and collaborating on exciting projects
+- 💻 I am also a **Front end Developer**
+
+
+---
+
+## 💻 What I Do
+
+- 🌐 **Front-End Development**
+.
+I regularly challenge myself by solving coding problems on platforms like LeetCode, HackerRank, and GeeksforGeeks to sharpen my problem-solving skills.
+
+---
+
+## 🔗 Connect with Me
+
+- [🔗 LinkedIn](https://www.linkedin.com/in/maheshsusarla) 
+- [💻 GitHub](https://github.com/Maheshsusarla)
+
+---
+
+> “Let’s innovate, collaborate, and build solutions that make a difference!”
