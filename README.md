@@ -3,7 +3,7 @@
 🎓 **B.Tech 3rd Year | CSE @ RSR **  
 🚀 **Aspiring Full Stack Developer**
 
-Welcome to my GitHub! I’m an enthusiastic AI and Machine Learning student with a strong passion for solving real-world problems through code and creativity. Whether it's designing sleek web interfaces or developing smart ML models, I love bringing ideas to life through technology.
+Welcome to my GitHub! A passionate AI and Machine Learning enthusiastic, currently pursuing my B.Tech 3rd year in computer science  at RSR engineering college. 
 
 ---
 
@@ -20,8 +20,8 @@ Welcome to my GitHub! I’m an enthusiastic AI and Machine Learning student with
 ## 💻 What I Do
 
 - 🌐 **Front-End Development**
-.
-I regularly challenge myself by solving coding problems on platforms like LeetCode, HackerRank, and GeeksforGeeks to sharpen my problem-solving skills.
+- 
+- 🌐 **Python Developer**
 
 ---
 
