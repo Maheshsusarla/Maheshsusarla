@@ -13,6 +13,8 @@ Welcome to my GitHub! A passionate AI and Machine Learning enthusiastic, current
 - 
 - 💡 Always exploring new tech and collaborating on exciting projects
 - 💻 I am also a **Front end Developer**
+- 💻 I am also a **Python Developer**
+- 💻 I am also a **Web Developer**
 
 
 ---
@@ -20,7 +22,7 @@ Welcome to my GitHub! A passionate AI and Machine Learning enthusiastic, current
 ## 💻 What I Do
 
 - 🌐 **Front-End Development**
-- 
+- 🌐 **Web developer**
 - 🌐 **Python Developer**
 
 ---
