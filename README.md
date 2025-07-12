@@ -10,22 +10,19 @@ Welcome to my GitHub! A passionate AI and Machine Learning enthusiastic, current
 ## 🚀 About Me
 
 - 🎓 Currently pursuing **B.Tech in Computer Science and Engineering** at **RSREC**
-- 
-- 💡 Always exploring new tech and collaborating on exciting projects
-- 💻 I am also a **Front end Developer**
-- 💻 I am also a **Python Developer**
-- 💻 I am also a **Web Developer**
 
 
----
+#### 👨‍💻 AI/ML & Data Science
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-## 💻 What I Do
-
-- 🌐 **Front-End Development**
-- 🌐 **Web developer**
-- 🌐 **Python Developer**
-
----
+#### 🌐 Web Development (Frontend)
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/
+ </p>
 
 ## 🔗 Connect with Me
 
