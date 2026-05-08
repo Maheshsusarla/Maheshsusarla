@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hii there! I'm Mahesh Susarla, a passionate AI and Machine Learning enthusiastic, currently pursuing my B.Tech Final year in computer science at RSR engineering college. <br> A passionate and detail- oriented tech enthusiast with a strong foundation in programming and web development. Proficient in Python and SQL. I enjoy developing efficient solutions for complex technical problems. My expertise also extends to front-end web technologies,including HTML , CSS and JavaScript, allowing me to create visually appealing and user-friendly website. <br><br>I am continuously learning and excited to collaborate on projects that push the boundaries of technology and innovation. Let’s connect and explore how my skills can contribute to impactful solutions!
+A motivated and detail-oriented Computer Science Engineering graduate from RSR Engineering College, Kadanuthala (B.Tech, 2022–2026), passionate about building efficient and scalable software solutions. I bring hands-on experience in Python, JavaScript, HTML, CSS, Bootstrap, and SQL, with a strong foundation in core computer science concepts including Data Structures, Operating Systems, Computer Networks, Compiler Design, Software Testing, and Cloud Computing.
+
+Throughout my academic journey, I have developed multiple real-world projects that reflect both my technical skills and my problem-solving mindset. These include a responsive Personal Portfolio Website built using HTML, CSS, and Bootstrap, a Python-based Coffee Management System designed to handle orders and billing, and a menu-driven Banking Management System that supports deposits, withdrawals, balance inquiries, and transaction history using core Python fundamentals.
+
+I hold certifications in Python Fundamentals from Infosys Springboard, HTML/CSS/JavaScript from LetsUpgrade, and Java Foundation from Infosys Springboard — demonstrating my commitment to continuous learning beyond the classroom. I have also served as an NSS Volunteer (2024–2025), which has strengthened my teamwork, leadership, and communication skills.
+
+I am a quick learner who is always exploring new technologies, tools, and frameworks to stay relevant in the ever-evolving tech industry. My immediate goal is to secure an entry-level software developer role where I can apply my skills to real-world challenges, collaborate with talented teams, and grow steadily into a well-rounded and impactful software engineer.
 
 
 ## 🌐 Socials:
