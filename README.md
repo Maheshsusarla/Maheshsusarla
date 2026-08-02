@@ -1,20 +1,101 @@
-Maheshsusarla/README.md
-💫 About Me:
-A motivated and detail-oriented Computer Science Engineering graduate from RSR Engineering College, Kadanuthala (B.Tech, 2022–2026), passionate about building efficient and scalable software solutions. I bring hands-on experience in Python, JavaScript, HTML, CSS, Bootstrap, and SQL, with a strong foundation in core computer science concepts including Data Structures, Operating Systems, Computer Networks, Compiler Design, Software Testing, and Cloud Computing.
+# 👋 Hi, I'm Mahesh Susarla
 
-Throughout my academic journey, I have developed multiple real-world projects that reflect both my technical skills and my problem-solving mindset. These include a responsive Personal Portfolio Website built using HTML, CSS, and Bootstrap, a Python-based Coffee Management System designed to handle orders and billing, and a menu-driven Banking Management System that supports deposits, withdrawals, balance inquiries, and transaction history using core Python fundamentals.
+### 💻 Aspiring Software Engineer | Full Stack Web Developer | Python Enthusiast
 
-I hold certifications in Python Fundamentals from Infosys Springboard, HTML/CSS/JavaScript from LetsUpgrade, and Java Foundation from Infosys Springboard — demonstrating my commitment to continuous learning beyond the classroom. I have also served as an NSS Volunteer (2024–2025), which has strengthened my teamwork, leadership, and communication skills.
+I'm a Computer Science Engineering graduate (2022–2026) passionate about building scalable web applications and solving real-world problems through code.
 
-I am a quick learner who is always exploring new technologies, tools, and frameworks to stay relevant in the ever-evolving tech industry. My immediate goal is to secure an entry-level software developer role where I can apply my skills to real-world challenges, collaborate with talented teams, and grow steadily into a well-rounded and impactful software engineer.
+I enjoy developing responsive websites, backend applications, and continuously learning modern technologies. My goal is to contribute to impactful software products while growing as a professional software engineer.
 
-🌐 Socials:
-Instagram LinkedIn email
+---
 
-💻 Tech Stack:
-HTML5 CSS3
-JavaScript Bootstrap Python NumPy Pandas Django MySQL
-Git GitHub
+## 🚀 About Me
 
-💻 Tech Stack:
-Vercel this my test then how can i change this like an impress it use it detalies and give about section also give 
+* 🎓 B.Tech in Computer Science Engineering (2022–2026)
+* 🌱 Currently learning **JavaScript, Django, React, and Full Stack Development**
+* 💡 Passionate about solving real-world problems through software
+* 🤝 Open to Software Engineer and Full Stack Developer opportunities
+* 📚 Constantly improving my programming and problem-solving skills
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* Python
+* JavaScript
+* HTML5
+* CSS3
+* SQL
+
+### Frameworks & Libraries
+
+* Django
+* Bootstrap
+* NumPy
+* Pandas
+
+### Databases
+
+* MySQL
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Vercel
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Personal Portfolio
+
+A responsive portfolio website showcasing my skills, projects, certifications, and contact information.
+
+**Tech Used:** HTML • CSS • Bootstrap • JavaScript
+
+---
+
+### ☕ Coffee Management System
+
+Python-based console application to manage coffee orders, billing, and inventory efficiently.
+
+**Tech Used:** Python
+
+---
+
+### 🏦 Banking Management System
+
+Menu-driven banking application supporting account creation, deposits, withdrawals, balance inquiry, and transaction history.
+
+**Tech Used:** Python • OOP
+
+---
+
+## 🏆 Certifications
+
+* Python Fundamentals
+* Java Foundation
+* HTML, CSS & JavaScript
+
+---
+
+## 🌍 Connect with Me
+
+* 💼 LinkedIn
+* 📧 Email
+* 🌐 Portfolio
+
+---
+
+## 📈 GitHub Stats
+
+> Add your GitHub Stats, Streak Stats, and Top Languages cards here.
+
+---
+
+### 💬 Quote
+
+> "Code. Learn. Improve. Repeat."
