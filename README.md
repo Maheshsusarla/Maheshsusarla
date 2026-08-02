@@ -17,4 +17,4 @@ JavaScript Bootstrap Python NumPy Pandas Django MySQL
 Git GitHub
 
 💻 Tech Stack:
-Vercel this my test then how can i change this like an impress it
+Vercel this my test then how can i change this like an impress it use it detalies and give about section also give 
